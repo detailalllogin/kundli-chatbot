@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+swisseph
+matplotlib
+numpy
+fpdf
+httpx
