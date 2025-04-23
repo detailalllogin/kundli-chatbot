@@ -1,0 +1,6 @@
+swisseph==0.0.0.dev1
+fpdf
+matplotlib
+httpx
+fastapi
+uvicorn
